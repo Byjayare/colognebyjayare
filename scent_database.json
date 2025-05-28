@@ -1,0 +1,54 @@
+{
+  "Bleu de Chanel": {
+    "profile": [
+      "Citrus",
+      "Woody",
+      "Spicy"
+    ],
+    "category": "Designer",
+    "occasion": [
+      "Work",
+      "Date Night"
+    ],
+    "type": "Eau de Parfum"
+  },
+  "Sauvage": {
+    "profile": [
+      "Fresh",
+      "Woody",
+      "Spicy"
+    ],
+    "category": "Designer",
+    "occasion": [
+      "Casual",
+      "Night Out"
+    ],
+    "type": "Eau de Toilette"
+  },
+  "Acqua di Gio": {
+    "profile": [
+      "Marine",
+      "Citrus",
+      "Fresh"
+    ],
+    "category": "Designer",
+    "occasion": [
+      "Summer",
+      "Casual"
+    ],
+    "type": "Eau de Toilette"
+  },
+  "Creed Aventus": {
+    "profile": [
+      "Fruity",
+      "Woody",
+      "Smoky"
+    ],
+    "category": "Niche",
+    "occasion": [
+      "Formal",
+      "Special Event"
+    ],
+    "type": "Eau de Parfum"
+  }
+}
